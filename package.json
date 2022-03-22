@@ -1,0 +1,23 @@
+{
+  "name": "com.quartzified.twitch.chat",
+  "version": "1.0.0",
+  "displayName": "Quartzified Twitch Chat",
+  "description": "Unity Twitch Chat Extension",
+  "unity": "2020.3",
+  "unityRelease": "20f1",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "keywords": [
+    "Quartzified",
+    "Utility",
+    "Editor",
+    "Twitch"
+  ],
+  "author": {
+    "name": "Quartzi",
+    "email": "virgil@quartzi.io",
+    "url": "https://www.quartzi.io"
+  },
+  "type": "tool"
+}
