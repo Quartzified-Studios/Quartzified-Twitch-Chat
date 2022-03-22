@@ -1,4 +1,6 @@
 # Quartzified Twitch Chat
+Have you ever wanted to see your or someone elses Twitch Chat as well as being able to write messages through Unity itself to said chat?!?  
+No? Well I did...
 
 ## Features
 ### Twitch Chat >.<
